@@ -1,5 +1,7 @@
 # MySite - Modern Landing Page
 
+*This project was created as the first task of Elevate Labs.*
+
 A modern, responsive landing page template built with HTML and CSS. This project is designed for businesses, startups, or personal portfolios looking for a clean and professional web presence.
 
 ## Features
